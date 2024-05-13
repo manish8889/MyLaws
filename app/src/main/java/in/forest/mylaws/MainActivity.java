@@ -62,6 +62,8 @@ public class MainActivity extends AppCompatActivity {
                         break;
                     case "My Assistant":
                         startActivity(new Intent(MainActivity.this, MyAssistant.class));
+
+                        //My App
                         break;
                 }
             }
