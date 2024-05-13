@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyLaws</string>
+    <string name="crpc">CrPC:</string>
+    <string name="bnss">BNSS:</string>
+    <string name="provisions_made">Provisions made:</string>
+    <string name="title_activity_beneficiary_recycler_adapter">BeneficiaryRecyclerAdapter</string>
+    <string name="head">Head:</string>
+
+    <string-array name="spinner_items">
+        <item>BNS</item>
+        <item>BNSS</item>
+        <item>BSA</item>
+        <item>My Assistant</item>
+    </string-array>
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
